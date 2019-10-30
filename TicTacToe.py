@@ -11,6 +11,7 @@ class TaTeTi():
         else:
             self.board = table
 
+            
     # Verifica si el tablero esta lleno o no
     def full(self):
 
